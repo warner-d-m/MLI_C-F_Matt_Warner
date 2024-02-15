@@ -2,7 +2,9 @@
 
 My name is Matt Warner, and I recently completed my Master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70.5%). Previously to that I completed an MSci degree in Physics at the same university. 
 
-My free time mainly consists of listening to and creating my own music in Abeleton Live. I am also a member of the Access Project, a volunteering tutoring initiative. I really admire the field of computer science; thinking creatively to solve problems in empirical and definitive ways. Currently, I work as a full-time carer for my special needs younger brother. However, I am now very eager to start my career as a software developer.
+My free time mainly consists of listening to and creating my own music in Abeleton Live. I am also a member of the Access Project, a volunteering tutoring initiative. 
+
+I really admire the field of computer science; thinking creatively to solve problems in empirical and definitive ways. Currently, I work as a full-time carer for my special needs younger brother. However, I am now very eager to start my career as a software developer.
 
 ## My Master's dissertation;
 
