@@ -1,6 +1,8 @@
 ## About me;
 
-My name is Matt Warner, I recently completed my Master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70%+). Previous to that I completed an MSci degree in Physics at the same university. My free time mainly consists of listening to and creating my own music in Abeleton. I am also a member of the Access Project, a volunteering tutoring initiative. Currently, I work as a full time carer for my special needs younger brother.
+My name is Matt Warner, I recently completed my Master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70%+). Previously to that I completed an MSci degree in Physics at the same university. My free time mainly consists of listening to and creating my own music in Abeleton Live. I am also a member of the Access Project, a volunteering tutoring initiative. 
+
+Currently, I work as a full time carer for my special needs younger brother. However, I am now eager to start a career as a software developmenter.
 
 ## My Master's dissertation
 
@@ -12,9 +14,9 @@ My research found that when hearing short melodies (10s), we judge their enjoyab
 
 ## Some of my other projects
 
-Adapting a generative adversarial network (akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
+Adapting a generative adversarial network (a deep learning system akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
 
-Implementing, training, and comparing two deep learning (AI) systems for audio, performing two tasks: separation and classification; [Report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632241/Report.pdf)
+Implementing, training, and comparing two deep learning systems for audio, performing two tasks: separation and classification; [Report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632241/Report.pdf)
 
 Sampling based looper digital instrument using Bela board; [Sampling based looper digital.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632289/Sampling.based.looper.digital.pdf)
 
@@ -22,12 +24,6 @@ A song detection system (like to Shazam); [Song detection system.pdf](https://gi
 
 Analyzing data collected by the Hydrogen Epoch of Reionization Array (HERA) to determine the presence of "wedge leakage" (MSci project); [Does the Hydrogen Epoch of Reionization Array Suffer from Wedge Leakage(submission).pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632749/Does.the.Hydrogen.Epoch.of.Reionization.Array.Suffer.from.Wedge.Leakage.submission.pdf)
 
-## Relevant links and contact info
-
-githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.md
-
-.io link; warner-d-m.github.io
-
-game; https://github.com/warner-d-m/worm_game
+## Contact info
 
 My email; warner-d-m@hotmail.co.uk
