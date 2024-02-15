@@ -4,6 +4,8 @@ My name is Matt Warner, and I recently completed my Master's in Sound and Music 
 
 I really admire the field of computer science; thinking creatively to solve problems in empirical and definitive ways. Currently, I work as a full-time carer for my special needs younger brother. However, I am now eager to get a shoe-in and start my career as a software developer.
 
+email contact; warner-d-m@hotmail.co.uk
+
 ## My Master's dissertation;
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening,' my project (where I achieved a mark of 80%) consisted of first hypothesizing my own cognitive model through reviewing the relevant literature (neurological, cognitive & behavioral studies), testing that model by using 25 self-gathered participants, and analyzing the self-collected data through code.
