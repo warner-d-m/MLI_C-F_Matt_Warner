@@ -4,6 +4,8 @@ My name is Matt Warner, and I recently completed my Master's in Sound and Music 
 
 I really admire the field of computer science; thinking creatively to solve problems in empirical and definitive ways. Currently, I work as a full-time carer for my special needs younger brother. However, I am now very eager to start my career as a software developer.
 
+My email; warner-d-m@hotmail.co.uk
+
 ## My Master's dissertation
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening,' my project (where I achieved a mark of 80%) consisted of first hypothesizing my own cognitive model through reviewing the relevant literature (neurological, cognitive & behavioral studies), testing that model by using 25 self-gathered participants, and analyzing the self-collected data through code.
@@ -23,7 +25,3 @@ Sampling based looper digital instrument using Bela board; [Sampling based loope
 A song detection system (like to Shazam); [Song detection system.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632690/Song.detection.system.pdf)
 
 Analyzing data collected by the Hydrogen Epoch of Reionization Array (HERA) to determine the presence of "wedge leakage" (MSci project); [Does the Hydrogen Epoch of Reionization Array Suffer from Wedge Leakage(submission).pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632749/Does.the.Hydrogen.Epoch.of.Reionization.Array.Suffer.from.Wedge.Leakage.submission.pdf)
-
-## Contact info
-
-My email; warner-d-m@hotmail.co.uk
